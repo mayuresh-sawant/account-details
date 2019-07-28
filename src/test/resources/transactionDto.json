@@ -1,0 +1,10 @@
+{
+  "accountNumber": "123",
+  "accountName": "test",
+  "valueDate": "Jul. 26,2019",
+  "currency": "AUD",
+  "debitAmount": "1",
+  "creditAmount": null,
+  "type": "debit",
+  "transactionNarrative": "comments"
+}
