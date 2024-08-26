@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <slf4j.version>1.7.7</slf4j.version>
-        <spring.fox.version>2.9.2</spring.fox.version>
+        <spring.fox.version>2.10.0</spring.fox.version>
         <skip.tests>false</skip.tests>
         <unit.test.includes>**/*Test.java</unit.test.includes>
         <integration.test.includes>**/*ComponentTest.java, **/*IntegrationTest.java</integration.test.includes>
